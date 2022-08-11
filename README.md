@@ -13,7 +13,7 @@ https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&lin
 
 Deploy to heroku.
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/af-deploy-script">
+<a href="https://heroku.com/deploy?template=https://github.com/Selfie-bd/af-deploy-script">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
